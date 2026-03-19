@@ -30,4 +30,4 @@ a:hover { color: #ff6600;text-decoration: underline;}
 
 .bold { font-weight: bold; } .highlight { background-color: #ffff99; } .underline { text-decoration: underline; }
 
-img {max-width: 400px;width: 100%;height: auto;}
+img {max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;}
