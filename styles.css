@@ -10,7 +10,7 @@ body {overflow-x: hidden;}
 
 @media (max-width: 768px) {#container { width: 95%; }}
 
-#sidebar { float: right;  width: 25%;  padding: 10px;}
+#sidebar { width: 100%; padding: 10px; }
 
 #container::after {content: "";display: table; clear: both; }
 
