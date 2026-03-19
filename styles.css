@@ -33,3 +33,11 @@ a:hover { color: #ff6600;text-decoration: underline;}
 .bold { font-weight: bold; } .highlight { background-color: #ffff99; } .underline { text-decoration: underline; }
 
 img {max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto;}
+
+#soccer-pic {float: left;margin-right: 15px; margin-bottom: 15px;}
+
+#travel-pic { float: right; margin-left: 15px;margin-bottom: 15px;}
+
+#future-pic { float: left; margin-right: 15px;margin-bottom: 15px;}
+
+
